@@ -1,36 +1,8 @@
-## Welcome to GitHub Pages
+### 欢迎来到GitHub页面
 
-You can use the [editor on GitHub](https://github.com/huyansai/huyansai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用GitHub上的编辑器在Markdown文件中维护和预览您的网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown基本语法
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huyansai/huyansai.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+每当您提交到此存储库时，GitHub Pages将运行Jekyll从您的Markdown文件中的内容重新构建站点中的页面。
 
 ### 联系me
 
