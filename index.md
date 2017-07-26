@@ -7,3 +7,5 @@
 ### 联系me
 
 QQ：1227088717
+Email：huyansai@gmail.com
+博客：[yidiary.com](http://yidiary.com/) 
