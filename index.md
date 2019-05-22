@@ -11,3 +11,5 @@ QQ：1227088717
 Email：huyansai@gmail.com
 
 博客：[yidiary.com](http://yidiary.com/) 
+
+表白墙：[love.yidiary.com](http://love.yidiary.com/) 
